@@ -1,3 +1,8 @@
+/*
+Author - Bhanu Prathap Reddy Nallapreddy
+Student ID - L30064720
+Week 1  - Assignment - Observer patterns
+ */
 
 class CovidData
 {
